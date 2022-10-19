@@ -1,0 +1,29 @@
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: blue;
+}
+
+.lesson {
+    background-color: lightblue;
+}
+
+#email {
+    background-color: aqua;
+}
+
+#github {
+    background-color: salmon;
+}
+
+#portfolio {
+    background-color: yellow;
+}
+
+
+.picture {
+    height: 200px;
+}
